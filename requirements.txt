@@ -1,0 +1,10 @@
+cleanlab>=2.3.0
+gradio>=4.20.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+
+# Optional but recommended for Parquet export
+pyarrow>=14.0.0
+

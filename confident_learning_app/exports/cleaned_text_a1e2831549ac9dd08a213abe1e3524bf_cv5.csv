@@ -1,0 +1,141 @@
+Timestamp,Your Academic Stage,Peer pressure,Academic pressure from your home,Study Environment,What coping strategy you use as a student?,"Do you have any bad habits like smoking, drinking on a daily basis?",What would you rate the academic  competition in your student life,Rate your academic stress index ,given_label,predicted_label,suggested_label,self_confidence,alternative_prob,quality_score,is_label_issue,rank
+24/07/2025 22:05:39,undergraduate,4,5,Noisy,Analyze the situation and handle it with intellect,No,3,5,5,1,1,0.1460725118715921,0.2318888151299153,0.1460725118715921,True,0
+24/07/2025 22:05:52,undergraduate,3,4,Peaceful,Analyze the situation and handle it with intellect,No,3,3,4,1,1,0.21311634461656395,0.27175667395474007,0.21311634461656395,True,1
+24/07/2025 22:06:39,undergraduate,1,1,Peaceful,"Social support (friends, family)",No,2,4,5,1,1,0.14111465547997235,0.24487685965525757,0.14111465547997235,True,2
+24/07/2025 22:06:45,undergraduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,4,3,4,5,5,0.11187712735795159,0.33892507543977135,0.11187712735795159,True,3
+24/07/2025 22:08:06,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,5,3,1,1,0.21285850877981127,0.27725202962289425,0.21285850877981127,True,4
+24/07/2025 22:08:13,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,2,1,1,0.18352889071956943,0.24487685965525757,0.18352889071956943,True,5
+24/07/2025 22:09:21,undergraduate,5,5,disrupted,Emotional breakdown (crying a lot),No,4,4,5,2,2,0.24920876234452152,0.31507319606735407,0.24920876234452152,True,6
+24/07/2025 22:10:06,undergraduate,3,2,Peaceful,"Social support (friends, family)",No,3,3,2,3,3,0.15302717597396726,0.23113641622410405,0.15302717597396726,True,7
+24/07/2025 22:11:01,undergraduate,2,2,Peaceful,Analyze the situation and handle it with intellect,No,2,2,4,1,1,0.16364838086054126,0.2679918787834381,0.16364838086054126,True,8
+24/07/2025 22:11:19,undergraduate,2,2,Peaceful,Analyze the situation and handle it with intellect,No,4,2,5,1,1,0.14111465547997235,0.24487685965525757,0.14111465547997235,True,9
+24/07/2025 22:12:12,undergraduate,3,2,disrupted,Emotional breakdown (crying a lot),No,3,5,3,5,5,0.12269891115132768,0.34372969295294237,0.12269891115132768,True,10
+24/07/2025 22:12:24,undergraduate,4,5,Peaceful,Analyze the situation and handle it with intellect,No,3,3,3,1,1,0.17811031765806595,0.2379054730728608,0.17811031765806595,True,11
+24/07/2025 22:12:27,undergraduate,2,3,Noisy,Emotional breakdown (crying a lot),No,2,2,3,4,4,0.2201673272289164,0.2368595859479987,0.2201673272289164,True,12
+24/07/2025 22:12:48,undergraduate,2,3,disrupted,Analyze the situation and handle it with intellect,No,4,2,3,1,1,0.20749210342757504,0.24487685965525757,0.20749210342757504,True,13
+24/07/2025 22:14:16,undergraduate,3,4,disrupted,"Social support (friends, family)",prefer not to say,3,4,5,1,1,0.1328869099526646,0.2679918787834381,0.1328869099526646,True,14
+24/07/2025 22:15:06,undergraduate,5,5,Noisy,Analyze the situation and handle it with intellect,No,4,4,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,15
+24/07/2025 22:15:39,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,5,5,4,2,2,0.13085355635808468,0.31507319606735407,0.13085355635808468,True,16
+24/07/2025 22:16:10,undergraduate,3,5,disrupted,Analyze the situation and handle it with intellect,No,5,4,3,5,5,0.16636917717674451,0.4237726312679766,0.16636917717674451,True,17
+24/07/2025 22:16:53,undergraduate,3,3,Peaceful,Emotional breakdown (crying a lot),No,4,3,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,18
+24/07/2025 22:17:46,undergraduate,3,4,Peaceful,"Social support (friends, family)",No,4,3,3,2,2,0.14435136256746045,0.31507319606735407,0.14435136256746045,True,19
+24/07/2025 22:18:02,undergraduate,4,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,3,4,4,0.2201673272289164,0.2368595859479987,0.2201673272289164,True,20
+24/07/2025 22:18:44,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,3,3,1,1,0.20785225300181615,0.2318888151299153,0.20785225300181615,True,21
+24/07/2025 22:18:55,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,3,3,1,1,0.2312117982972677,0.2679918787834381,0.2312117982972677,True,22
+24/07/2025 22:18:58,undergraduate,5,1,disrupted,Analyze the situation and handle it with intellect,No,5,3,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,23
+24/07/2025 22:19:06,undergraduate,4,5,disrupted,Analyze the situation and handle it with intellect,No,4,4,3,5,5,0.12269891115132768,0.34372969295294237,0.12269891115132768,True,24
+24/07/2025 22:19:22,undergraduate,4,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,25
+24/07/2025 22:19:25,undergraduate,4,5,disrupted,Analyze the situation and handle it with intellect,Yes,4,5,5,4,4,0.14929452542154273,0.2368595859479987,0.14929452542154273,True,26
+24/07/2025 22:19:33,high school,3,4,disrupted,Analyze the situation and handle it with intellect,No,3,4,4,5,5,0.11299968553892548,0.3002317329189718,0.11299968553892548,True,27
+24/07/2025 22:19:51,undergraduate,5,1,disrupted,"Social support (friends, family)",No,4,5,3,1,1,0.20785225300181615,0.2318888151299153,0.20785225300181615,True,28
+24/07/2025 22:20:28,undergraduate,4,3,Peaceful,Analyze the situation and handle it with intellect,No,5,4,2,5,5,0.22791313308285263,0.4237726312679766,0.22791313308285263,True,29
+24/07/2025 22:21:04,undergraduate,5,5,disrupted,Emotional breakdown (crying a lot),Yes,5,5,4,5,5,0.11187712735795159,0.33892507543977135,0.11187712735795159,True,30
+24/07/2025 22:23:15,undergraduate,3,1,disrupted,Emotional breakdown (crying a lot),No,4,4,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,31
+24/07/2025 22:24:13,undergraduate,3,2,Peaceful,Emotional breakdown (crying a lot),No,4,3,3,4,4,0.2201673272289164,0.2368595859479987,0.2201673272289164,True,32
+24/07/2025 22:24:53,undergraduate,1,1,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,1,1,3,1,1,0.17811031765806595,0.2379054730728608,0.17811031765806595,True,33
+24/07/2025 22:25:17,undergraduate,1,1,Peaceful,"Social support (friends, family)",prefer not to say,4,3,5,4,4,0.14929452542154273,0.2368595859479987,0.14929452542154273,True,34
+24/07/2025 22:25:27,undergraduate,3,4,Noisy,Analyze the situation and handle it with intellect,No,5,4,1,4,4,0.20357688947488964,0.2368595859479987,0.20357688947488964,True,35
+24/07/2025 22:25:41,undergraduate,4,5,disrupted,Emotional breakdown (crying a lot),Yes,2,3,4,1,1,0.21235955023080466,0.2379054730728608,0.21235955023080466,True,36
+24/07/2025 22:28:58,undergraduate,1,4,Peaceful,Analyze the situation and handle it with intellect,No,4,4,3,1,1,0.23637029753886707,0.27175667395474007,0.23637029753886707,True,37
+24/07/2025 22:29:26,undergraduate,3,4,Peaceful,Analyze the situation and handle it with intellect,No,3,4,3,1,1,0.20749210342757504,0.24487685965525757,0.20749210342757504,True,38
+24/07/2025 22:30:29,undergraduate,3,2,Peaceful,"Social support (friends, family)",No,3,4,5,1,1,0.1218043885233598,0.27725202962289425,0.1218043885233598,True,39
+24/07/2025 22:32:22,undergraduate,3,4,disrupted,Analyze the situation and handle it with intellect,No,5,5,3,1,1,0.20785225300181615,0.2318888151299153,0.20785225300181615,True,40
+24/07/2025 22:32:36,post-graduate,3,5,Peaceful,Analyze the situation and handle it with intellect,No,3,3,5,4,4,0.14929452542154273,0.2368595859479987,0.14929452542154273,True,41
+24/07/2025 22:32:37,undergraduate,3,5,Peaceful,Analyze the situation and handle it with intellect,No,4,5,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,42
+24/07/2025 22:33:48,undergraduate,5,4,disrupted,Emotional breakdown (crying a lot),No,5,5,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,43
+24/07/2025 22:34:34,undergraduate,4,2,Noisy,Analyze the situation and handle it with intellect,No,2,2,4,5,5,0.13801316768918787,0.4237726312679766,0.13801316768918787,True,44
+24/07/2025 22:34:41,undergraduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,4,3,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,45
+24/07/2025 22:34:53,undergraduate,5,5,Noisy,Emotional breakdown (crying a lot),prefer not to say,4,5,4,5,5,0.13801316768918787,0.4237726312679766,0.13801316768918787,True,46
+24/07/2025 22:38:47,undergraduate,2,4,Peaceful,Analyze the situation and handle it with intellect,No,4,4,5,1,1,0.1460725118715921,0.2318888151299153,0.1460725118715921,True,47
+24/07/2025 22:39:36,undergraduate,3,4,Noisy,Emotional breakdown (crying a lot),Yes,4,5,5,2,2,0.24920876234452152,0.31507319606735407,0.24920876234452152,True,48
+24/07/2025 22:41:41,undergraduate,2,3,disrupted,"Social support (friends, family)",No,2,3,1,4,4,0.05510809799769835,0.2500251691777091,0.05510809799769835,True,49
+24/07/2025 22:42:11,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,3,3,1,1,0.20749210342757504,0.24487685965525757,0.20749210342757504,True,50
+24/07/2025 22:42:25,undergraduate,4,4,Noisy,Analyze the situation and handle it with intellect,No,5,4,5,2,2,0.24920876234452152,0.31507319606735407,0.24920876234452152,True,51
+24/07/2025 22:42:48,undergraduate,4,5,Peaceful,Analyze the situation and handle it with intellect,No,4,4,4,1,1,0.16364838086054126,0.2679918787834381,0.16364838086054126,True,52
+24/07/2025 22:44:07,undergraduate,3,3,disrupted,Emotional breakdown (crying a lot),Yes,3,3,3,5,5,0.13776430142918206,0.3002317329189718,0.13776430142918206,True,53
+24/07/2025 22:44:50,undergraduate,3,1,Noisy,Analyze the situation and handle it with intellect,Yes,4,4,3,1,1,0.20749210342757504,0.24487685965525757,0.20749210342757504,True,54
+24/07/2025 23:01:02,undergraduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,5,4,3,4,4,0.2201673272289164,0.2368595859479987,0.2201673272289164,True,55
+24/07/2025 23:02:49,post-graduate,4,4,disrupted,Analyze the situation and handle it with intellect,prefer not to say,4,4,3,4,4,0.2201673272289164,0.2368595859479987,0.2201673272289164,True,56
+24/07/2025 23:03:10,undergraduate,3,1,Noisy,Analyze the situation and handle it with intellect,No,4,3,3,5,5,0.1541468838964578,0.33892507543977135,0.1541468838964578,True,57
+24/07/2025 23:04:01,undergraduate,2,3,disrupted,Analyze the situation and handle it with intellect,No,3,5,1,5,5,0.04393189078323842,0.4237726312679766,0.04393189078323842,True,58
+24/07/2025 23:15:48,undergraduate,3,1,Noisy,Analyze the situation and handle it with intellect,No,5,4,2,1,1,0.05791858777644532,0.27175667395474007,0.05791858777644532,True,59
+24/07/2025 23:22:17,undergraduate,2,1,Peaceful,Emotional breakdown (crying a lot),No,3,2,5,4,4,0.14929452542154273,0.2368595859479987,0.14929452542154273,True,60
+24/07/2025 23:31:01,undergraduate,2,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,61
+24/07/2025 23:32:26,undergraduate,4,4,disrupted,Emotional breakdown (crying a lot),No,4,4,5,1,1,0.14111465547997235,0.24487685965525757,0.14111465547997235,True,62
+24/07/2025 23:36:22,undergraduate,3,3,disrupted,Analyze the situation and handle it with intellect,No,3,3,4,1,1,0.21311634461656395,0.27175667395474007,0.21311634461656395,True,63
+24/07/2025 23:44:35,undergraduate,3,2,Peaceful,Emotional breakdown (crying a lot),No,2,2,5,1,1,0.1460725118715921,0.2318888151299153,0.1460725118715921,True,64
+25/07/2025 00:10:10,undergraduate,4,5,disrupted,Emotional breakdown (crying a lot),No,2,5,3,1,1,0.20749210342757504,0.24487685965525757,0.20749210342757504,True,65
+25/07/2025 00:13:46,undergraduate,4,3,Peaceful,Analyze the situation and handle it with intellect,No,4,5,4,1,1,0.16364838086054126,0.2679918787834381,0.16364838086054126,True,66
+25/07/2025 00:21:30,undergraduate,3,5,disrupted,Emotional breakdown (crying a lot),No,3,4,5,1,1,0.1328869099526646,0.2679918787834381,0.1328869099526646,True,67
+25/07/2025 00:21:38,undergraduate,4,2,disrupted,Analyze the situation and handle it with intellect,No,1,1,5,1,1,0.14111465547997235,0.24487685965525757,0.14111465547997235,True,68
+25/07/2025 08:13:01,undergraduate,3,3,disrupted,Analyze the situation and handle it with intellect,No,3,4,4,1,1,0.22051327182499159,0.27725202962289425,0.22051327182499159,True,69
+25/07/2025 08:42:22,undergraduate,4,3,disrupted,Analyze the situation and handle it with intellect,No,4,4,4,5,5,0.11187712735795159,0.33892507543977135,0.11187712735795159,True,70
+25/07/2025 10:30:12,undergraduate,3,3,disrupted,Analyze the situation and handle it with intellect,No,4,4,4,5,5,0.11299968553892548,0.3002317329189718,0.11299968553892548,True,71
+25/07/2025 10:37:39,undergraduate,1,1,Noisy,Analyze the situation and handle it with intellect,No,1,1,4,1,1,0.2229874907176256,0.24487685965525757,0.2229874907176256,True,72
+25/07/2025 10:43:24,undergraduate,3,3,disrupted,Analyze the situation and handle it with intellect,No,4,4,5,1,1,0.1218043885233598,0.27725202962289425,0.1218043885233598,True,73
+25/07/2025 11:00:10,undergraduate,5,5,Noisy,Emotional breakdown (crying a lot),No,3,5,4,1,1,0.16364838086054126,0.2679918787834381,0.16364838086054126,True,74
+25/07/2025 11:06:32,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,3,3,5,2,2,0.24920876234452152,0.31507319606735407,0.24920876234452152,True,140
+25/07/2025 11:06:40,undergraduate,2,3,Noisy,"Social support (friends, family)",No,2,3,5,5,5,0.33892507543977135,0.23527599241849764,0.33892507543977135,False,140
+25/07/2025 11:47:24,undergraduate,3,4,Peaceful,Analyze the situation and handle it with intellect,No,3,3,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+25/07/2025 13:17:44,post-graduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,5,4,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+25/07/2025 13:18:47,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3,5,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+25/07/2025 13:38:10,undergraduate,2,2,Peaceful,Analyze the situation and handle it with intellect,No,1,1,5,5,5,0.34372969295294237,0.22225454516313947,0.34372969295294237,False,140
+25/07/2025 16:00:32,undergraduate,5,3,Peaceful,Emotional breakdown (crying a lot),No,4,5,5,5,5,0.4237726312679766,0.22791313308285263,0.4237726312679766,False,140
+25/07/2025 16:04:38,undergraduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,3,4,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+25/07/2025 16:31:45,post-graduate,1,5,Peaceful,Analyze the situation and handle it with intellect,No,5,3,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+25/07/2025 17:08:00,undergraduate,2,2,disrupted,"Social support (friends, family)",No,5,4,2,4,4,0.18980779833488884,0.23090263283256787,0.18980779833488884,True,140
+25/07/2025 17:51:17,post-graduate,4,4,Noisy,Analyze the situation and handle it with intellect,No,4,3,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+25/07/2025 18:18:38,undergraduate,2,3,Peaceful,"Social support (friends, family)",No,3,3,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+25/07/2025 18:27:24,undergraduate,2,3,Peaceful,Analyze the situation and handle it with intellect,prefer not to say,3,3,3,3,3,0.23113641622410405,0.2275061213278447,0.23113641622410405,False,140
+25/07/2025 19:34:59,undergraduate,2,5,Peaceful,"Social support (friends, family)",No,4,5,3,4,4,0.22492917232822018,0.23090263283256787,0.22492917232822018,True,140
+25/07/2025 20:37:52,post-graduate,2,2,Noisy,Analyze the situation and handle it with intellect,No,4,4,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+25/07/2025 23:34:18,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,Yes,4,4,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+25/07/2025 23:39:15,undergraduate,2,2,Peaceful,Analyze the situation and handle it with intellect,No,4,3,5,5,5,0.33892507543977135,0.23527599241849764,0.33892507543977135,False,140
+26/07/2025 07:25:43,high school,4,5,Peaceful,Analyze the situation and handle it with intellect,No,4,5,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+26/07/2025 07:33:35,high school,3,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+26/07/2025 07:34:28,high school,4,5,Noisy,Emotional breakdown (crying a lot),No,5,5,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+26/07/2025 07:50:38,high school,3,3,Peaceful,Analyze the situation and handle it with intellect,No,3,4,3,4,4,0.22492917232822018,0.23090263283256787,0.22492917232822018,True,140
+26/07/2025 08:13:18,high school,2,3,Noisy,Emotional breakdown (crying a lot),No,3,4,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+26/07/2025 08:25:17,high school,1,2,Peaceful,Analyze the situation and handle it with intellect,No,5,3,5,5,5,0.33892507543977135,0.23527599241849764,0.33892507543977135,False,140
+26/07/2025 08:25:18,high school,4,4,disrupted,Emotional breakdown (crying a lot),No,2,5,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+26/07/2025 08:27:10,high school,4,3,Peaceful,Analyze the situation and handle it with intellect,No,4,4,5,5,5,0.3002317329189718,0.2930184457186433,0.3002317329189718,False,140
+26/07/2025 08:40:35,high school,4,5,Noisy,Emotional breakdown (crying a lot),No,3,4,3,4,4,0.22492917232822018,0.23090263283256787,0.22492917232822018,True,140
+26/07/2025 08:57:40,high school,1,5,Noisy,Analyze the situation and handle it with intellect,No,5,5,2,3,3,0.15302717597396726,0.23113641622410405,0.15302717597396726,True,140
+26/07/2025 09:28:08,high school,5,5,Peaceful,Emotional breakdown (crying a lot),No,3,5,5,5,5,0.3002317329189718,0.2930184457186433,0.3002317329189718,False,140
+26/07/2025 09:36:09,high school,1,3,Peaceful,"Social support (friends, family)",No,3,1,5,4,4,0.15576301509296187,0.23090263283256787,0.15576301509296187,True,140
+26/07/2025 09:47:04,high school,5,3,Noisy,Emotional breakdown (crying a lot),No,4,5,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+26/07/2025 09:56:32,high school,3,3,Noisy,Analyze the situation and handle it with intellect,No,4,3,5,3,3,0.1813171058539299,0.23113641622410405,0.1813171058539299,True,140
+26/07/2025 10:01:33,high school,4,4,disrupted,Emotional breakdown (crying a lot),No,4,5,4,4,4,0.2500251691777091,0.2480421134276468,0.2500251691777091,False,140
+26/07/2025 10:04:32,high school,2,3,Noisy,"Social support (friends, family)",No,3,4,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+26/07/2025 10:38:24,high school,3,3,Peaceful,Analyze the situation and handle it with intellect,No,3,4,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+26/07/2025 10:39:37,high school,2,4,Peaceful,Emotional breakdown (crying a lot),No,3,3,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+26/07/2025 11:36:30,high school,2,4,Noisy,Analyze the situation and handle it with intellect,No,4,3,5,4,4,0.15576301509296187,0.23090263283256787,0.15576301509296187,True,140
+26/07/2025 13:39:21,undergraduate,1,1,Noisy,Analyze the situation and handle it with intellect,No,3,3,3,4,4,0.2480421134276468,0.2500251691777091,0.2480421134276468,True,140
+26/07/2025 14:21:53,high school,1,3,Noisy,Analyze the situation and handle it with intellect,No,5,3,1,4,4,0.19859738141136127,0.23090263283256787,0.19859738141136127,True,140
+26/07/2025 14:23:45,high school,3,4,Noisy,Emotional breakdown (crying a lot),No,3,3,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+26/07/2025 18:45:13,high school,1,1,Peaceful,Emotional breakdown (crying a lot),No,1,1,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+26/07/2025 21:37:46,high school,3,4,Peaceful,"Social support (friends, family)",No,2,2,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+26/07/2025 22:11:02,high school,3,1,Noisy,Analyze the situation and handle it with intellect,No,4,4,3,3,3,0.23113641622410405,0.2275061213278447,0.23113641622410405,False,140
+27/07/2025 13:45:00,undergraduate,2,3,Noisy,Analyze the situation and handle it with intellect,No,3,5,3,3,3,0.23113641622410405,0.2275061213278447,0.23113641622410405,False,140
+27/07/2025 22:56:54,high school,2,2,Peaceful,Analyze the situation and handle it with intellect,No,4,4,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+30/07/2025 06:43:55,high school,4,5,Peaceful,Analyze the situation and handle it with intellect,No,3,5,5,5,5,0.3002317329189718,0.2930184457186433,0.3002317329189718,False,140
+30/07/2025 16:02:16,undergraduate,4,4,disrupted,Analyze the situation and handle it with intellect,No,4,4,4,4,4,0.2368595859479987,0.2201673272289164,0.2368595859479987,False,140
+11/08/2025 12:15:00,post-graduate,3,4,Peaceful,"Social support (friends, family)",No,1,4,3,1,1,0.20785225300181615,0.2318888151299153,0.20785225300181615,True,140
+11/08/2025 18:07:26,undergraduate,5,1,Noisy,Analyze the situation and handle it with intellect,Yes,5,5,5,2,2,0.24920876234452152,0.31507319606735407,0.24920876234452152,True,140
+11/08/2025 19:29:07,post-graduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,3,3,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+12/08/2025 02:28:42,post-graduate,3,4,Peaceful,"Social support (friends, family)",No,2,4,1,1,1,0.2318888151299153,0.21517428981890713,0.2318888151299153,False,140
+12/08/2025 08:11:48,post-graduate,3,1,disrupted,"Social support (friends, family)",No,4,5,4,1,1,0.21517428981890713,0.2318888151299153,0.21517428981890713,True,140
+12/08/2025 08:49:45,high school,4,5,Noisy,Emotional breakdown (crying a lot),No,3,5,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+12/08/2025 08:56:07,undergraduate,3,5,Peaceful,Analyze the situation and handle it with intellect,Yes,4,5,1,3,3,0.2070131806201542,0.23113641622410405,0.2070131806201542,True,140
+12/08/2025 10:03:58,undergraduate,3,4,disrupted,"Social support (friends, family)",No,2,4,3,3,3,0.23113641622410405,0.2275061213278447,0.23113641622410405,False,140
+12/08/2025 12:13:46,undergraduate,5,5,,Emotional breakdown (crying a lot),No,5,4,5,4,4,0.15576301509296187,0.23090263283256787,0.15576301509296187,True,140
+12/08/2025 13:16:50,undergraduate,2,2,Noisy,Analyze the situation and handle it with intellect,No,4,4,5,5,5,0.34372969295294237,0.22225454516313947,0.34372969295294237,False,140
+12/08/2025 15:01:20,high school,4,4,Peaceful,Analyze the situation and handle it with intellect,No,3,4,3,1,1,0.20785225300181615,0.2318888151299153,0.20785225300181615,True,140
+13/08/2025 21:45:58,undergraduate,1,1,Peaceful,Analyze the situation and handle it with intellect,No,2,2,4,3,3,0.2275061213278447,0.23113641622410405,0.2275061213278447,True,140
+14/08/2025 06:10:01,post-graduate,4,3,disrupted,Emotional breakdown (crying a lot),Yes,2,4,2,4,4,0.19010167192665248,0.2368595859479987,0.19010167192665248,True,140
+14/08/2025 21:06:15,undergraduate,5,3,disrupted,Analyze the situation and handle it with intellect,No,2,4,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+17/08/2025 13:02:04,undergraduate,3,2,Peaceful,Analyze the situation and handle it with intellect,No,3,4,2,5,5,0.23527599241849764,0.33892507543977135,0.23527599241849764,True,140
+18/08/2025 14:36:00,undergraduate,4,2,disrupted,Analyze the situation and handle it with intellect,No,3,3,4,4,4,0.23090263283256787,0.22492917232822018,0.23090263283256787,False,140
+18/08/2025 17:13:52,undergraduate,3,3,Peaceful,Analyze the situation and handle it with intellect,No,2,4,3,3,3,0.23113641622410405,0.2275061213278447,0.23113641622410405,False,140
+18/08/2025 19:08:52,undergraduate,4,5,disrupted,"Social support (friends, family)",No,5,5,2,5,5,0.22225454516313947,0.34372969295294237,0.22225454516313947,True,140
+18/08/2025 22:40:13,undergraduate,4,2,Peaceful,"Social support (friends, family)",No,4,4,3,4,4,0.22492917232822018,0.23090263283256787,0.22492917232822018,True,140
